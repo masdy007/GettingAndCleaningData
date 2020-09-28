@@ -15,4 +15,4 @@ Finally, replace y(activity) column to it's name by refering activity label.
 
 Generate 'Tidy Dataset' that consists of the average (mean) of each variable for each subject and each activity. 
 
-The result is shown in tidy_dataset.txt also csv version is included.
+The result is shown in tidy_dataset.txt also csv version is included to be viewed on GitHub.
